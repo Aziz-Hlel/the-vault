@@ -12,3 +12,4 @@ create  ```.obsidian/backlink.json``` file
   "backlinkInDocument": true
 }
 ```
+

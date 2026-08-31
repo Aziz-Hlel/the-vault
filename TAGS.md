@@ -4,6 +4,7 @@
 
 #languages/typescript
 #cloud/aws 
+#DNS
 #tips
 #code-snippets
 #tutorial
@@ -12,3 +13,5 @@
 #war-stories
 #lessons-learned
 #obsidian/config
+#tips-tricks
+#bash
