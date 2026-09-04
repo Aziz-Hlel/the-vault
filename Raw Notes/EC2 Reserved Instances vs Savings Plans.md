@@ -7,6 +7,7 @@ tags:
 ---
 
 #### Key Notes
+
  * EC2 Instance Savings Plans provide nearly the same pricing as Standard RIs, which is why a t3.large Linux 3-year No Upfront for example would often shows the same rate.
  * The main advantage of Savings Plans is **flexibility, not additional savings**.
 
