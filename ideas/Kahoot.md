@@ -1,0 +1,4 @@
+
+
+- an alternative of kahoot but instead of playing it with a device you do with a like a toy with 4 buttons , since most of kids in primary schools and daycares for children doesn't have phones and even teachers do not trust children to bring out their phone in class, we would make a simple device with 4 buttons to choose between the 4 options of the quizz and the scores would be saved of each student, 
+- for convenience, the device should be rather cheap and could save the record of the sudnet i.e his name of the app would regonize the device and attach a student to it, so that the teacher wouldnt need a 5 minutes set up each time  

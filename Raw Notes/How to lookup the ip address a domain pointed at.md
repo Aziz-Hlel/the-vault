@@ -3,6 +3,7 @@ tags:
   - tips-tricks
   - bash
   - DNS
+  - one-liners
 ---
 
 ---

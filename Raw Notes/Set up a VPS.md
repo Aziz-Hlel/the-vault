@@ -181,3 +181,10 @@ By default, log files grow indefinitely. Create or edit `/etc/docker/daemon.json
 ```
 
 Restart Docker with `sudo systemctl restart docker`.
+
+
+
+
+### Install git 
+
+- `sudo dnf install -y git`
