@@ -35,6 +35,13 @@ tags:
 // Enable Ts-go as engine
 "typescript.experimental.useTsgo": false,  // Enable ts-go (optional)
 "js/ts.experimental.useTsgo": false,  // Enable ts-go (optional)
+
+
+// Terminal Settings
+"terminal.integrated.suggest.enabled": true, // Activates the dropdown suggestion menu for CLI commands, flags, file paths, and scripts
+"terminal.integrated.suggest.quickSuggestions": true, // Automatically pops up suggestions as you type without waiting for a trigger key.
+"terminal.integrated.shellIntegration.enabled": true // Required for VS Code to communicate with your shell's environment
+
 }
 ```
 
