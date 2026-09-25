@@ -1,0 +1,7 @@
+
+
+
+
+- i mean where should i start, it was not what i excepted at all, first of all, shout out to the trailer makers, i always appreciate a trailer that would hook you and make interested in watching the movie without making like a movie summary in the trailer, without basically spoiling the movie, i was almost going into this movie blind, just had a vague idea of the movie being about a couple in a rocky and somewhat bad relationship, but man i love how the movie would take you in a ride, just to then leave you with a deep and profound perspective and pov of relationships, and the satire on this movie, omg, not a big seth rogen fan, but I'm pretty confident to say i don't need to see any other of his movie to know that he's personality and sense of humor couldn't fit better in any other movie than this one, idk but i felt this is the first time that i felt i knew what satire actually is, i love the combination of both maturity and creativity in the making of the story, this is one of the first movie, in a while, that my youtube short rotten brain actually were immersed and captivated, because the story wasn't clear at all, always evolving and going somewhere unexpected, and in each "chapter" you'd know this is not the actual end road, and it did not disappoint, because at the end it did end at a good note (wink wink)
+- best quote from this is 
+- you can start a new relationship with same person
