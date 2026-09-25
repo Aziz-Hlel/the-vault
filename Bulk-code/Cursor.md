@@ -5,7 +5,7 @@ tags:
 
 ---
 
-``` typescript
+``` ts
 import z from 'zod';
 import { prisma } from '@repo/db/prisma/browser';
 import { PostMapper } from './posts.mapper';
