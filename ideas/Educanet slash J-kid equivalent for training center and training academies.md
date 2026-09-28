@@ -11,4 +11,4 @@
 - child pickup ?
 - a notification system with default values of the most common celebration and eids, etc ...
 - add notification for when a student finished a certification or maybe for the whole class
-- 
+- make it so like certification could have steps/chapters and each one could be either one session or expanded to more just so that the parent/student could track the progress and what each seance for 
