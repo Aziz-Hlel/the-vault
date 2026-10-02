@@ -12,9 +12,11 @@ pnpm i -D -w prettier-plugin-tailwindcss
 
 - add a `.prettierignore`
 
-```text
+```bash
 pnpm i -D prettier
 pnpm i -D -w prettier-plugin-tailwindcss 
+#plugins
+pnpm i -D -w @trivago/prettier-plugin-sort-imports prettier-plugin-tailwindcss
 ```
 
 - add `.prettierrc.json` : 
@@ -27,7 +29,11 @@ pnpm i -D -w prettier-plugin-tailwindcss
   "trailingComma": "all",
   "endOfLine": "lf",
   "tabWidth": 2,
-  "plugins": ["prettier-plugin-tailwindcss"],
+  "plugins": [
+    "@trivago/prettier-plugin-sort-imports", // To sort import declarations
+    "prettier-plugin-tailwindcss", // To sort your Tailwind CSS utility classes
+  ],
+  "tailwindStylesheet": "./src/styles/index.css", // So it can sort custom utilities
   "printWidth": 120
 }
 ```
@@ -40,7 +46,7 @@ pnpm i -D -w prettier-plugin-tailwindcss
 
 ```json
  "lint-staged": {
-    "**/*.{js,mjs,cjs,jsx,ts,mts,cts,tsx}": "prettier --write --ignore-unknown"
+    "**/*.{js,mjs,cjs,jsx,ts,mts,cts,tsx,json,md}": "prettier --write --ignore-unknown"
   }
 ```
 
