@@ -21,14 +21,17 @@ sudo usermod -aG docker ec2-user
 
 
 - #### Configure Docker Log Limits
-
+  
+-  `sudo nano /etc/docker/daemon.json` 
+  
 ```JSON
 {
   "log-driver": "json-file",
   "log-opts": {
     "max-size": "10m",
     "max-file": "3"
-  }
+  },
+  "live-restore": true // prevents stopping all running containers when restarting the Docker daemon, ! careful with this one,Enable it for standalone Linux production hosts if you want zero-downtime Docker patches. Skip it if you use Docker Swarm or manage infrastructure via orchestrators like Kubernetes
 }
 ```
 
