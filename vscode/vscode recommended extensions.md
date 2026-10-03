@@ -1,7 +1,8 @@
 ---
 tags:
-  - vscode
+  - ide/vscode
   - tips-tricks
+  - ksi
 ---
 
 ---
