@@ -26,6 +26,14 @@ tags:
 	"TypeScriptTeam.native-preview", // * TS/GO
 	"usernamehw.errorlens", // * Error Lens
 	"github.vscode-github-actions", // * GitHub Actions ( for YAML files IntelliSense / autocomplete )
+	
+	
+	
+	// GENERAL
+	"dsznajder.es7-react-js-snippets", // * ES7+ React/Redux/React-Native snippets (like rafce)
+	"ferrierbenjamin.fold-unfold-all-icone", // * Fold/unfold all icone
+	"n2ns.antigravity-panel", // * Antigravity Panel
+	
 	],
 "unwantedRecommendations": []
 }
