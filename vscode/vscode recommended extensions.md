@@ -5,6 +5,7 @@ tags:
   - ksi
 ---
 
+
 ---
 
 - file name is `extensions.json`
@@ -33,7 +34,6 @@ tags:
 	"dsznajder.es7-react-js-snippets", // * ES7+ React/Redux/React-Native snippets (like rafce)
 	"ferrierbenjamin.fold-unfold-all-icone", // * Fold/unfold all icone
 	"n2ns.antigravity-panel", // * Antigravity Panel
-	
 	],
 "unwantedRecommendations": []
 }

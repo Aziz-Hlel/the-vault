@@ -1,6 +1,6 @@
 ---
 tags:
-  - infra/redis
+  - db/redis
   - lessons-learned
   - concept
 ---
@@ -8,8 +8,8 @@ tags:
 ---
 
 - get and set are called string approach and hget and hset are a hash approach
-- - **String Approach (`GET` / `SET`)** = Store individual **primitive values** (strings, numbers, Booleans, or JSON strings) under unique key names.
-- - **Hash Approach (`HGET` / `HSET`)** = Store an actual **object / dictionary / key-value collection** under a single key name.
+- **String Approach (`GET` / `SET`)** = Store individual **primitive values** (strings, numbers, Booleans, or JSON strings) under unique key names.
+- **Hash Approach (`HGET` / `HSET`)** = Store an actual **object / dictionary / key-value collection** under a single key name.
 
 
 
