@@ -2,6 +2,7 @@
 tags:
   - ide/antigravity
   - tips-tricks
+  - one-liners
 ---
 
 ---
