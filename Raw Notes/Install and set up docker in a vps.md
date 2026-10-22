@@ -2,7 +2,7 @@
 tags:
   - infra/docker
   - how-to
-  - vps
+  - infra/vps
 ---
 
 ---

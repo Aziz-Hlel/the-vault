@@ -3,7 +3,7 @@ tags:
   - cloud/aws/ec2
   - tips-tricks
   - usefull-websites
-  - vps
+  - infra/vps
   - pricing
 ---
 

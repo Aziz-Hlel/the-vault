@@ -2,7 +2,7 @@
 tags:
   - cloud
   - how-to
-  - vps
+  - infra/vps
   - bash
   - best-practices
 ---

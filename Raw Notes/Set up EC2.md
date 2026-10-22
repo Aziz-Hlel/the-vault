@@ -2,7 +2,7 @@
 tags:
   - how-to
   - cloud/aws/ec2
-  - vps
+  - infra/vps
 ---
 
 ---
