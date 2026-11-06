@@ -6,4 +6,5 @@
 - owasp zap : a tool to find site vulnerabilities  
 - look more into tests
 - how to vibe code efficiently, ykwim like making the ai write entire module with the same architecture, approach and code-style you do.  
-- learn how to make you own skill, a big skill i got in mind is one that would make the chat writes you a note himself in the style you most prefer , specially in design system, which is giving a problem in sort of a question so that you would test yourself then it gives oyu the answer afterwards and an explanation , this skills can even have something similar to grill me too where it read the conversation so see if you talked about mutiple thing it ll ask you of which part exactly you want to make in a form of context problem question answer 
+- learn how to make you own skill, a big skill i got in mind is one that would make the chat writes you a note himself in the style you most prefer , specially in design system, which is giving a problem in sort of a question so that you would test yourself then it gives oyu the answer afterwards and an explanation , this skills can even have something similar to grill me too where it read the conversation so see if you talked about mutiple thing it ll ask you of which part exactly you want to make in a form of context problem question answer , initial draft : [[Quizz Prompt]]
+- 

@@ -5,6 +5,7 @@ tags:
   - ksi
   - best-practices
   - design-principles
+  - quizz
 ---
 
 ---
