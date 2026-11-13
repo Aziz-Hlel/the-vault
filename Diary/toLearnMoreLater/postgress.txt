@@ -1,0 +1,3 @@
+- CTE
+- 7 forms of DB normalization : https://youtu.be/lx2g61Xo400?t=215
+- ACID

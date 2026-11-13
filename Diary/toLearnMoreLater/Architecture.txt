@@ -1,0 +1,1 @@
+modular monolith and is it that used in the real world and what does each ms uses his own db(schema) or no , and do services communicate not by public api rather directly by hitting the port since both in the same machine just like a server hit the port of the DB in a containerized enviorment
