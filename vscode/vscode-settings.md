@@ -14,6 +14,7 @@ tags:
 // Format Setting
 "editor.defaultFormatter": "esbenp.prettier-vscode", // To choose Prettier as formatter
 "editor.formatOnSave": true, // To format code on save
+"editor.formatOnPaste": false, // to eliminate unwanted side effects of enabling auto save enable and format on save
 "files.eol": "\n",
 "editor.codeActionsOnSave": { // Organizer imports and remove unused imports
 	"source.organizeImports": "explicit"
