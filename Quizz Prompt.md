@@ -3,7 +3,6 @@
  
 Turn part of this conversation into an active-recall note for Obsidian.
 
-Topic: [TOPIC, or blank]
 
 ## Step 1: Check with me first. Do not write the note yet.
 
