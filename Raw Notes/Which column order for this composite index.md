@@ -2,6 +2,9 @@
 tags:
   - design-principles
   - db/design
+  - quizz
+  - best-practices
+  - ksi
 ---
 
 
