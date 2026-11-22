@@ -1,0 +1,3 @@
+
+
+- these motherfckers did it again, another S tier top of the shelf plot twist, overall good but the ending and the fight at the ending was a bit of cliche, same corny stupid decisions the heros would make just to make the job harder for themselves and triggering us in the proccess ... 
