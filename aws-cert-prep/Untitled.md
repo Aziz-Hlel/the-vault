@@ -72,3 +72,7 @@
 
 
 stopped at 04-13
+
+### AWS CloudShell
+
+- it's basically a terminal in the cloud of aws 
