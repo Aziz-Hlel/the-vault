@@ -1,6 +1,10 @@
 
 
 
+notes : 
+- continue watch from 05-3
+- you might wanna go back to 05-1 aws budget setup if he don't talk about it more later on and revisit the subject 
+
 
 ## type of compute : 
 
@@ -44,23 +48,6 @@
 ![[Pasted image 20261121235748.png]]
 
 
-## IAM: Users & Groups
-
-- root account should not be used or shared
-- Groups only contain users, not other groups
-- user can belong to no group but that is not best practice
-- user can be in multiple groups
-- **Least privilege principle** : don't give more permissions than a user needs
-
-### How to increase IMA Users security
-
-- Password Policy : make passwords stronger by setting different password policies such as min length, require specific specialized letters, require users to change their password after a period of time, etc
-- MFA: it could be Virtual MFA device such as Google Authenticator and Authy on a phone, or U2F (Universal 2nd Factor) Security Key which is a physical device, basically a flash-disc  
-## IMA Policies
-
-### IAM Policy Structure
-![[Pasted image 20261122144605.png]]
-
 
 ### How can users access AWS 
 
@@ -69,10 +56,9 @@
 - AWS SDK (Software Development Kit): for code, protected by access keys, Embedded within your application
 - AWS CloudShell : it is a browser-based CLI and the recommended alternative of using AWS CLI
 
-
-
-stopped at 04-13
+- **Notes :** Use Access Keys for Programmatic Access (CLI / SDK ) 
 
 ### AWS CloudShell
 
 - it's basically a terminal in the cloud of aws 
+
